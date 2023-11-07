@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dab60a072d3ad1b419c23c6ee88c8c2b, type: 3}
+  m_Name: BlueShirt
+  m_EditorClassIdentifier: 
+  itemName: Blue shirt
+  itemDescription: A short sleeve blue shirt
+  itemType: 1
+  itemSprite:
+  - {fileID: 21300000, guid: 8557ac4d49cdfd545957cd4ddc8fa0f4, type: 3}
+  - {fileID: 21300000, guid: 813d5e6ed43808146a2a82638a1a7972, type: 3}
+  - {fileID: 21300000, guid: 813d5e6ed43808146a2a82638a1a7972, type: 3}
+  itemCost: 10
+  sellPrice: 5
